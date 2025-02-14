@@ -1,3 +1,3 @@
 # TRABALHOS-FACULDADES
- projetos feitodos em anbito escolar 
+ projetos feitos em âmbito escolar 
  projeto para verificação simples de um _*email e senha*_ 
